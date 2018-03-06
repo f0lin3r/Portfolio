@@ -1,0 +1,118 @@
+body {
+	background-image:;
+   background-size: 100%;
+   font-family:sans-serif;
+  background-color: #F0F3F4;  
+}
+	
+.block{
+  font-family: Marker Felt, fantasy;
+  margin-right:auto;
+  margin-left:auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #2980B9;
+}
+
+#logo {
+    height:150px;
+			  }
+.container-fluid {
+  opacity: 1;
+}
+
+
+.nav-item{
+  background-color: ;
+  font-size: 2em;
+  vertical-align: middle;
+}
+
+
+h1{
+  margain: auto;
+  font-size:5.0em;
+}
+h3{
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+
+.pageOne{
+background-size:100%;
+height: 430px;
+  color: black;
+  padding-bottom: 10%;
+  width: max-width;
+    opacity: 1;
+}
+p{
+  font-size: 2.0em;
+  font-family:Snell Roundhand, cursive;
+}
+.me{
+height:350px;  
+position: relative;
+top: 50px;
+ left:150px;
+border-radius: 50%;
+}
+.pageTwo{
+background-color:white 	; 
+height: auto;
+width: auto;
+color: black;
+}
+.pageThree{
+  background-color:blue;
+ height: 300px;
+background-image:url("https://www.iamsterdam.com/media/work-study/student-reviewing-board-of-notes-nc.jpg?h=330&as=false&iar=false"); 
+  color: black;
+ background-size: 100%;
+  padding-top: 10%;
+}
+p6{
+  font-size: 1em; 
+  font-family: Marker Felt, fantasy;
+  padding-left:35em;
+}
+h4{
+  font-family: Snell Roundhand, cursive;
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  border-radius: 50%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.6;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-instagram {
+  background: pink;
+  color: white;
+
+  .fa-codepen {
+     background: black;
+  color: white;
+  }
+  .fa-free-code-capm {
+     background: green;
+  color: black;
+  }
+ 
